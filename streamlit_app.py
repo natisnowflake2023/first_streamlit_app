@@ -2,7 +2,7 @@ import pandas
 import streamlit
 import snowflake.connector
 
-streamlit.write('Thanls for adding ', add_my_fruit)
+# streamlit.write('Thanls for adding ', add_my_fruit)
 
 
 # my_cnx = snowflake.connector.connect(**streamlit.secrets["snowflake"])
